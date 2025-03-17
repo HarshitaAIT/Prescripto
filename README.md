@@ -4,10 +4,15 @@
 #Features
 
 ->User Authentication: Secure login and registration for patients and doctors.
+
 ->Doctor Profiles: Detailed profiles showcasing doctors' specializations, experience, and availability.
+
 ->Appointment Booking: Real-time booking management with appointment status updates.
+
 ->Admin Dashboard: For managing doctors, appointments, and users.
+
 ->Responsive Design: Ensures a smooth experience across all devices.
+
 ->Secure Data Handling: Implements JWT authentication and encrypted passwords.
 
 
