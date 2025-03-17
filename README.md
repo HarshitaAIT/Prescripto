@@ -19,30 +19,40 @@
 #Tech Stack
 
 -Frontend: React, React Router, Axios
+
 -Backend: Node.js, Express.js
+
 -Database: MongoDB
+
 -Authentication: JSON Web Token (JWT)
+
 -Styling: CSS3, Bootstrap
 
 nstallation Guide
 
 Prerequisites
 -Node.js installed on your system.
+
 -MongoDB running locally or a MongoDB Atlas instance.
 
 Steps to Run the Project
 1.Clone the Repository
     git clone https://github.com/HarshitaAIT/Prescripto.git
+    
     cd Prescripto
 
 2.Install Dependencies
     npm install
+    
     cd client
+    
     npm install
 
 3.Configure Environment Variables:Create a .env file in the root folder and add the following:
    MONGO_URI=your_mongodb_connection_string
+   
    JWT_SECRET=your_jwt_secret_key
+   
    PORT=5000
 
 4.Run the Application:In the root folder, run the backend server:
@@ -63,7 +73,9 @@ Steps to Run the Project
 #Future Enhancements
 
 -Integration with payment gateways for paid consultations.
+
 -Implementing reminders and notifications for appointments.
+
 -Enhanced search and filter features for doctor listings.
 
 
